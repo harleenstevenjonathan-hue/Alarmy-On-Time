@@ -1,0 +1,5 @@
+{
+  "name": "WakeUp Mission Alarm",
+  "description": "An interactive alarm clock that requires completing tasks like math, typing, or finding light to turn off.",
+  "requestFramePermissions": ["camera"]
+}
